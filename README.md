@@ -12,3 +12,5 @@
 
 ## Assignment
 Create a React Native App and post it to Github. As long as it works on your phone, do as little or as much as you like.
+
+https://docs.google.com/forms/d/e/1FAIpQLScElGR2j20mTnsNEYBMo2mSMljUo1xII16aBrXgxgnBwfofGg/viewform?usp=sf_link
